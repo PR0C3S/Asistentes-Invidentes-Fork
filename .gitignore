@@ -1,0 +1,4 @@
+*.pyc
+env/*
+camera_test.py
+cameratest2.py
